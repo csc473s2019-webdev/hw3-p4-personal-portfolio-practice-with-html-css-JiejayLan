@@ -1,0 +1,20 @@
+#project{
+    color: #90d4d4;
+    display: inline-block;
+    border: 1px solid lightblue;
+    height: 260px;
+    width: 340px;
+    margin: 40px 50px;    
+}
+#project-title{
+    text-align: center;
+    font-weight:bold;
+}
+
+img{
+    height: 220px;
+    width: 340px;
+}
+#welcome-section{
+    text-align: center;
+}
