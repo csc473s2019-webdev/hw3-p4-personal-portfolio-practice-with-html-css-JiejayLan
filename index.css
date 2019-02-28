@@ -1,7 +1,18 @@
+#navBar{
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    background-color: #cadbdb;
+}
+
+ul li{
+    display: inline-block;
+    margin: 55px;
+}
+
 #welcome-section{
     text-align: center;
-    background-color: #cadbdb;
-    
+    background-color: #cadbdb;   
 }
 
 #projects{
