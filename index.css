@@ -1,3 +1,8 @@
+html body{
+    margin:0px;
+    padding:0px;
+}
+
 #navBar{
     text-align: center;
     position: fixed;
@@ -11,6 +16,7 @@ ul li{
 }
 
 #welcome-section{
+    padding-top: 200px;
     text-align: center;
     background-color: #cadbdb;   
 }
