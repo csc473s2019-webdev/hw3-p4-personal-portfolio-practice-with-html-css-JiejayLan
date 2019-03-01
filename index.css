@@ -1,14 +1,21 @@
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: rgb(203, 227, 235);
+    }
+  }
+
 html body{
     margin:0px;
     padding:0px;
 }
 
-#navBar{
+#navbar{
     text-align: center;
     position: fixed;
     width: 100%;
     background-color: #cadbdb;
     margin: 0;
+    top:0;
 }
 
 li{
@@ -35,7 +42,7 @@ ul{
 #projects{
     margin: auto
 }
-#project{
+.project{
     color: #90d4d4;
     display: inline-block;
     border: 1px solid lightblue;
@@ -43,7 +50,7 @@ ul{
     width: 340px;
     margin: 40px 70px;    
 }
-#project-title{
+.project-tile{
     text-align: center;
     font-weight:bold;
     
