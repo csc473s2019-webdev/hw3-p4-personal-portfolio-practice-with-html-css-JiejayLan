@@ -54,3 +54,15 @@ img{
     width: 340px;
 }
 
+#footer{
+    
+    padding:20px ;
+    text-align: center;
+    background-color: #cadbdb; 
+    font-size: 1.5em     
+}
+#footer a:link{
+    text-decoration: none;
+    color: rgb(75, 177, 202)
+}
+
