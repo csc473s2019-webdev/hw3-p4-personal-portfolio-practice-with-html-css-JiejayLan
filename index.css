@@ -8,11 +8,22 @@ html body{
     position: fixed;
     width: 100%;
     background-color: #cadbdb;
+    margin: 0;
+}
+
+li{
+    font-size: 1.5em;
+    margin: 0 0;
 }
 
 ul li{
     display: inline-block;
-    margin: 55px;
+    margin: 10px 55px;
+    
+}
+
+ul{
+    padding-left: 500px;
 }
 
 #welcome-section{
